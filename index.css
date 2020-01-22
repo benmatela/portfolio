@@ -1,5 +1,6 @@
 .grid-banner {
-    background: linear-gradient( rgb(221, 221, 253), rgb(221, 221, 253) ), url("assets/images/code_blue.jfif") no-repeat;
+    /* background: linear-gradient( rgb(221, 221, 253), rgb(221, 221, 253) ), url("assets/images/code_blue.jfif") no-repeat; */
+    background-color: #f8f9fa;
     padding-bottom: 20px;
     background-size: 100% 100%;
     min-height: 40vh;
@@ -34,3 +35,8 @@
     border-width: 5px !important;
     border-style: solid !important;
 }
+
+a {
+    color: coral !important;
+}
+
