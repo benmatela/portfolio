@@ -1,4 +1,4 @@
 # portfolio
-A fictional holiday sharing website.
+A brief intro.
 
-DEMO: https://benmatela.github.io/dreamshare
+DEMO: https://benmatela.github.io/portfolio
